@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="computerGame" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAACAAAAAABAAAAEAAAAAAAAAIAAAAQ=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="character" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAIBAAAAACAAAAJAAAAAAAAAAAAYABipACAACQ=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="artifacts" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIhAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="magic_ring" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAABAAAAAAAAAAAAABAACAAQ=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="minotaur" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAACAAAABAAIAAAAAAAAAAAAAEACAAAQ=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wizard" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAACAEAABAAAAAAAAAAAAAAAAAACCAAQ=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="elf" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAiACAA=</HashCode>
+      <FileName>Task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
